@@ -1,0 +1,1 @@
+docker run --security-opt seccomp:unconfined -it -v C:\Users\Juan\Project\cloud_test:/var/www php_7.2.9 bash
